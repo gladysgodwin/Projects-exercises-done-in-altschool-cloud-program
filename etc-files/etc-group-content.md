@@ -1,4 +1,4 @@
-gladys@ubuntu-focal:/root$ sudo cat /etc/group
+> gladys@ubuntu-focal:/root$ sudo cat /etc/group<br>
 root:x:0:
 daemon:x:1:
 bin:x:2:

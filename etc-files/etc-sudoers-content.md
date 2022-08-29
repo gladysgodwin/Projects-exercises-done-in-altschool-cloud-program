@@ -1,4 +1,4 @@
-gladys@ubuntu-focal:/root$ sudo cat /etc/sudoers
+> gladys@ubuntu-focal:/root$ sudo cat /etc/sudoers<br>
 [sudo] password for gladys:
 #
 # This file MUST be edited with the 'visudo' command as root.

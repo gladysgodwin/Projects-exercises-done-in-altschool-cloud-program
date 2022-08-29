@@ -1,4 +1,4 @@
-gladys@ubuntu-focal:/root$ sudo cat /etc/passwd
+> gladys@ubuntu-focal:/root$ sudo cat /etc/passwd<br>
 root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
