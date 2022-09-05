@@ -1,0 +1,4 @@
+> Output of the git remote -v command
+
+origin  https://github.com/gladysgodwin/AltSchool-Cloud-exercises.git (fetch)
+origin  https://github.com/gladysgodwin/AltSchool-Cloud-exercises.git (push)

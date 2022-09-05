@@ -1,0 +1,113 @@
+commit cf5eeeb877b258918b5c014ea7e13c2f639fe950 (HEAD -> main, origin/main, origin/HEAD)
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Sun Sep 4 23:12:30 2022 +0200
+
+    package installed
+
+commit 52dcb8033e4892f6c266629dea2a28b9ab56bb89
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Thu Sep 1 17:33:10 2022 +0200
+
+    ifconfig file
+
+commit f9d3d5d84560f60c75b41838ff405accd11dfd28
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Thu Sep 1 16:54:37 2022 +0200
+
+    removed images
+
+commit eb4c452fa64cb055843d3d94b083a900fae93747
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Thu Sep 1 16:52:38 2022 +0200
+
+    added the content of the etc file
+
+commit 8d85f25193bb9981aaf8947569ad54751c78bf9c
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Thu Sep 1 15:37:15 2022 +0200
+
+    set the network to dhcp
+
+commit d209a5c64680a8361f88fd98664dedd11fb89f27
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Tue Aug 30 00:21:01 2022 +0200
+
+    etc/sudoers file
+
+commit 0350608610c736ccb0b2c1dc57aa343295dd1c82
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Tue Aug 30 00:18:05 2022 +0200
+
+    edited image location
+
+commit 70f9cde0f5828db5fa2d70b19936ec3c75a6b34b
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Mon Aug 29 20:16:02 2022 +0200
+
+    Files edited
+
+commit 90283a5f5b791b1bfbf1ef98b0ee5ebedb0d2a16
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Mon Aug 29 19:31:27 2022 +0200
+
+    made them a markdown files
+
+commit 8e0e1e4b19afb53db52f52e78e9adb88bff76668
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Mon Aug 29 19:23:54 2022 +0200
+
+    I created groups, users and an ssh key for a user
+
+commit b6fc798ce27c5116359537b6df35a97eda08305a
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Mon Aug 22 18:12:13 2022 +0200
+
+    exercise 2 files_linuxcommand
+
+commit fa72505b68375a0fbc4e9e5745372e959e484143
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Mon Aug 22 17:29:42 2022 +0200
+
+    added files and uses
+
+commit 58d460badd5169419d2f88819bf0fbd0e9bf6929
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Sun Aug 14 21:29:08 2022 +0000
+
+    exercise 2 files
+
+commit 70c97150b5a6d375f0445a8a06e63e42613d259f
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Sun Aug 14 21:03:54 2022 +0000
+
+:
+
+commit b6fc798ce27c5116359537b6df35a97eda08305a
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Mon Aug 22 18:12:13 2022 +0200
+
+    exercise 2 files_linuxcommand
+
+commit fa72505b68375a0fbc4e9e5745372e959e484143
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Mon Aug 22 17:29:42 2022 +0200
+
+    added files and uses
+
+commit 58d460badd5169419d2f88819bf0fbd0e9bf6929
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Sun Aug 14 21:29:08 2022 +0000
+
+    exercise 2 files
+
+commit 70c97150b5a6d375f0445a8a06e63e42613d259f
+Author: Gladys Godwin <gladysgodwin79@gmail.com>
+Date:   Sun Aug 14 21:03:54 2022 +0000
+
+    exercise 1 files
+
+commit bd0682f78e31f140eb7d492a97663acb095929f9
+Author: Gladys Oviawe <99274632+gladysgodwin@users.noreply.github.com>
+Date:   Sun Aug 14 22:22:41 2022 +0200
+
+    Initial commit
