@@ -1,0 +1,50 @@
+- name: Set up apache2 to host php webpage
+  hosts: webservers
+  become: true
+  tasks:
+    #Update your apt
+    - name: update apt
+      command: apt update -y
+
+    #Upgrade the apt
+    - name: upgrade apt
+      command: apt upgrade -y
+
+    #Install the Apache2
+    - name: install apache2
+      command: apt install apache2 -y
+
+    #Start the service
+    - name: Start apache2
+      service:
+        name: apache2
+        enabled: yes
+        state: started
+
+    #Check the version of the apache2
+    - name: Check apache version
+      command: apache2 -v
+
+    #Get the status of the apache
+    - name: Get the status of apache2
+      command: systemctl status apache2
+
+    #Set the timezone to Africa/lagos
+    - name: Set the timezone to Africa/lagos
+      command: timedatectl set-timezone Africa/Lagos
+
+    #Confirm the timezone
+    - name: Get status of timezone
+      command: timedatectl
+
+    #Installing the required requisites
+    - name: Install the required requisites
+      command: apt install apt-transport-https lsb-release software-properties-common ca-certificates -y
+
+    #Installing using php7.4
+    # - name: install php7.4
+    #   command: apt install php7.4 -y
+
+    #Verify the php7.4 installation
+    - name: verify the php installation
+      command: php -v
