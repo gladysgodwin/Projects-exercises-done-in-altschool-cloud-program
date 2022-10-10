@@ -21,13 +21,13 @@ git log
 
 #### git config -l output
 
-![images displaying gitconfig -l command output](/box1/Altschool-Cloud-exercises/gitconfig-clon/images/gitconfig-l.JPG "git config -l output")
+![images displaying gitconfig -l command output](/gitconfig-clon/images/gitconfig-l.JPG "git config -l output")
 
 #### git remote -v output
 
-![images displaying gitremote -v command output](/box1/Altschool-Cloud-exercises/gitconfig-clon/images/gitremotev.JPG "git remote -v output")
+![images displaying gitremote -v command output](/gitconfig-clon/images/gitremotev.JPG "git remote -v output")
 
 #### git log output
 
-![images displaying git log command output](/box1/Altschool-Cloud-exercises/gitconfig-clon/images/gitlog-output.JPG "git config -l output")
+![images displaying git log command output](/gitconfig-clon/images/gitlog-output.JPG "git config -l output")
 

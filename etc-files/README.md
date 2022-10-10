@@ -14,14 +14,14 @@
 
 ### etc/passwd file
 
-![Image showing a screenshot of the content of /etc/passwd on my terminal](/box1/Altschool-Cloud-exercises/etc-files/etc-passwd-content.JPG "The output of /etc/passwd file")
+![Image showing a screenshot of the content of /etc/passwd on my terminal](/etc-files/etc-passwd-content.JPG "The output of /etc/passwd file")
 
 ### etc/group file
 
-![Image showing a screenshot of the content of /etc/group file on my terminal](/box1/Altschool-Cloud-exercises/etc-files/etc-group.JPG "The output of /etc/group file")
+![Image showing a screenshot of the content of /etc/group file on my terminal](/etc-files/etc-group.JPG "The output of /etc/group file")
 
 ### etc/sudoers file
 
-![Image showing a screenshot of the content of /etc/sudoers on my terminal](/box1/Altschool-Cloud-exercises/etc-files/etc-sudoers-content.JPG "The output of /etc/sudoers file")
+![Image showing a screenshot of the content of /etc/sudoers on my terminal](/etc-files/etc-sudoers-content.JPG "The output of /etc/sudoers file")
 
 
