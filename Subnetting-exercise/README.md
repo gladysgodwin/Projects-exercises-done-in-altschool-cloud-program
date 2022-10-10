@@ -1,4 +1,4 @@
-# **IP Addressing/ Subneeting**
+# **IP Addressing/ Subnetting**
 **Question**
 193.16.20.35/29
 
