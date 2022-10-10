@@ -1,5 +1,9 @@
-# **IP Addressing/ Subneeting**
-**Question**
+# Exercise 8
+
+
+## **IP Addressing/ Subneeting**
+
+## **Question**
 193.16.20.35/29
 
 What is the Network IP, number of hosts, range of IP addresses and broadcast IP from this subnet?
@@ -8,7 +12,7 @@ Instruction: Submit all your answer as a markdown file in the folder for this ex
 
 ### **Solution**
 
-| IP 193.16.20.35/29   | Calculation     |
+| IP given: 193.16.20.35/29   | Calculation     |
 |--------------|-----------|
 | IP Address | **193.16.20.35**    |
 | Network IP  | **193.16.20.32**  |
