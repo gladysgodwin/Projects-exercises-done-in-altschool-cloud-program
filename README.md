@@ -1,2 +1,2 @@
 # AltSchool-Cloud-exercises
-Cloud Exercises for this semester
+Cloud Exercises for second semester
